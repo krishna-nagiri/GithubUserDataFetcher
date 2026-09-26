@@ -183,4 +183,6 @@ https://github.com/krishna-nagiri
 
 ## 📄 License
 
-This project is created for learning and development purposes.
+This project is created for learning and development purposes. And will be submitted to roadmap.sh for review.
+
+https://roadmap.sh/projects/github-user-activity
